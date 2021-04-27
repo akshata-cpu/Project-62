@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#myCorousel
+{
+    background-color: chartreuse;
+}
+#myCorousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
